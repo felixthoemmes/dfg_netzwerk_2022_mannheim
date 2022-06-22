@@ -2,6 +2,7 @@
 
 Autor: Felix Thoemmes
 
+- Ful slide set
 - R code Instrumental Variables
 - R code Front-door estimator
 - R code regression adjustment
